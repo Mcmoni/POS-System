@@ -18,8 +18,8 @@ Welcome to the Point of Sale (POS) System! This application is designed to strea
 
 ### Prerequisites
 
-- PHP 7.4 or higher
-- MySQL 5.7 or higher
+- PHP 7.4 or lower
+- MySQL 5.7 or lower
 - Web server (Apache, Nginx, etc.)
 - Composer (for dependency management)
 
